@@ -1,0 +1,51 @@
+
+
+.logo {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    font-size: 20pt;
+}
+
+.logo-stop {
+    color: yellow;
+    font-size: 35pt;
+}
+
+.navbar {
+/*    background-color: black;*/
+    background: transparent;
+    height: 75px;
+}
+
+#test {
+    width: auto;
+    
+}
+.navbar-default .navbar-brand {
+    color: #DDDDDD;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #FFFFFF
+}
+
+#hero {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero {
+/*    margin-top: -200px;*/
+    -webkit-filter: brightness(30%); /* Safari 6.0 - 9.0 */
+    filter: brightness(30%);
+}
+
+#bootstrap-overrides nav {
+    border-style: none;
+}
+
+#main {
+    background-color: #1cd5ff;
+    height: 1000px;
+
+}
